@@ -1,9 +1,9 @@
 <h1 align="center">Ilya Volodin — QA Engineer</h1>
-<h3 align="center">Mobile & Web Testing • API • Test Design</h3>
+<h3 align="center">Mobile Telecom & Web Testing</h3>
 
 <p align="center">
-  <a href="mailto:your@email.com">📧 Email</a> •
-  <a href="https://linkedin.com/in/yourprofile">💼 LinkedIn</a> •
+  <a href="mailto:elushv@gmail.com">📧 Email</a> •
+  <a href="https://linkedin.com/in/elushv">💼 LinkedIn</a> •
   🌍 Open to relocation
 </p>
 
@@ -12,97 +12,139 @@
 ## 🌐 Language / Язык
 
 <details>
-<summary>🇷🇺 Русский</summary>
+<summary>Русский</summary>
 
 ## 👨‍💻 Обо мне
 
-Инженер по тестированию с **опытом 3+ года** в тестировании мобильных и веб-приложений.
+Инженер по тестированию с **3,5+ годами опыта**, основная специализация —  
+**тестирование мобильных устройств и телекоммуникационных сервисов**.
 
-Основной фокус:
-- качество продукта
-- грамотный тест-дизайн
-- поиск критических дефектов на ранних этапах
+Имею практический опыт работы с экосистемами крупных производителей смартфонов
+(**Huawei, Samsung, Vivo**): тестирование пользовательского опыта, сетевых сервисов,
+регионального функционала и совместимости устройств с инфраструктурой операторов связи РФ.
 
-Люблю продукты с хорошим UX и логикой, где всё ощущается «как надо».
+В 2025 году целенаправленно расширил профессиональный профиль в сторону
+**веб-сервисов и API**, обновив теоретическую базу и закрепив практические навыки
+в рамках профильного обучения.
 
 ---
 
 ## 🧠 Навыки
 
-### 🧪 Тестирование
-- Функциональное, регрессионное
-- Smoke / Sanity
-- Исследовательское тестирование
-- Тест-кейсы, чек-листы, баг-репорты
+### Процессы и методологии
+- SDLC / STLC  
+- Scrum, Kanban  
+- Анализ требований  
+- Тест-дизайн  
 
-### 🌐 API
-- REST / JSON / XML
-- HTTP-методы и статус-коды
-- Тестирование API через Postman и cURL
+### Тестирование
+- Функциональное и регрессионное тестирование  
+- Исследовательское тестирование  
+- Тестирование мобильных приложений  
+- Тестирование веб-сервисов  
 
-### 📱 Мобильное тестирование
-- Android / iOS
-- Логи, крэши, сетевой трафик
-- Эмуляторы и реальные устройства
+### API и базы данных
+- REST API  
+- Postman, Swagger, cURL, SoapUI  
+- SQL (базовые запросы)  
+- MySQL, MongoDB, NoSQL  
+- DBeaver  
 
-### 🛠 Инструменты
+### Инструменты
 <p>
-  <img src="https://img.shields.io/badge/Postman-orange?logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-blue?logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YouTrack-black?logo=youtrack"/>
+  <img src="https://img.shields.io/badge/Postman-orange?logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Charles-grey"/>
+  <img src="https://img.shields.io/badge/Fiddler-grey"/>
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Xcode-blue?logo=xcode"/>
 </p>
+
+### Языки
+- Русский — родной  
+- Английский — B1 (технический, письменный)
 
 ---
 
 ## 💼 Опыт работы
 
-**Инженер по тестированию мобильных приложений**  
-*3+ года*
+### **HUAWEI**  
+*Инженер по обеспечению качества ПО мобильных устройств*  
+**Август 2024 — Май 2025**
 
-- Тестирование Android и iOS приложений  
-- Подготовка тестовой документации  
-- Заведение и проверка багов  
-- Взаимодействие с разработчиками  
+- Тестирование актуальных версий ПО смартфонов, планшетов и носимых устройств  
+- Тестирование IMS-сервисов и сетевого взаимодействия с локальными операторами  
+- Тестирование IoT-устройств и пользовательского опыта  
+- Подготовка ПО устройств к передаче партнёрам  
+- Взаимодействие со штаб-квартирой Huawei по вопросам локального ПО  
+- Участие в переговорах с операторами связи по внедрению RCS  
+- Обучение голосового помощника для работы с русским языком  
+- Тестирование интеграции ассистента Яндекс с устройствами Huawei  
+- Тестирование CNAP / CNAM в рамках требований законодательства РФ  
+- Анализ качества фото- и видеосъёмки  
+- Подготовка регулярной отчётности по проектам  
 
 ---
 
-## 🚀 Проекты
+### **Samsung R&D Institute Russia**  
+*Инженер по обеспечению качества ПО мобильных устройств*  
+**Март 2023 — Август 2024**
 
-| Проект | Описание | Инструменты |
-|------|---------|-------------|
-| 🎬 Тестовое IVI | API и UI тестирование | Postman, DevTools |
-| 📱 Mobile QA | Полный цикл тестирования | Android, Charles |
+- Тестирование регионального функционала устройств для рынка РФ  
+- Проверка базовой работоспособности устройств  
+- Тестирование VoLTE, VoWiFi, RCS  
+- Анализ и воспроизведение маркетинговых дефектов  
+- Тестирование качества связи и энергопотребления  
+- GPS-тестирование в статике и динамике  
+- Тестирование носимых устройств  
+- Проверка eSIM  
+- Тестирование предустановленных приложений согласно законодательству РФ  
 
 ---
 
-## 🧪 Тестовые артефакты
+### **Vivo Communications Rus**  
+*Инженер по обеспечению качества ПО мобильных устройств*  
+**Ноябрь 2021 — Октябрь 2022**
 
-Ниже представлены примеры моей практической работы по тестированию,
-выполненной в рамках профессионального обучения.
+- Тестирование смартфонов по тест-кейсам  
+- Подготовка устройств к сертификации  
+- Тестирование LTE, NSA, VoLTE, VoWiFi, ViLTE  
+- Тестирование производительности, интерфейса и геолокации  
+- Прошивка устройств и модемов  
+- Тестирование OTA-обновлений  
+- Тестирование камеры, AR, NFC и аудиосистем  
+- Заведение баг-репортов и взаимодействие с разработчиками  
+- Снятие логов через инженерное меню и ADB  
+
+---
+
+## 📦 Портфолио
+
+В данном разделе собраны мои практические работы по тестированию,
+включая проекты и тестовые артефакты, выполненные в рамках обучения
+и самостоятельной практики.
 
 Каждый репозиторий содержит:
 - описание задания
 - объём тестирования
 - созданные тестовые артефакты
-- мои комментарии и выводы
+- комментарии и выводы
 
 | Модуль | Описание |
 |------|----------|
 | 🔍 Тест-дизайн | Тест-кейсы, чек-листы, классы эквивалентности |
-| 🌐 API тестирование | Тестирование REST API (Postman, JSON) |
-| 🐞 Баг-репорты | Примеры баг-репортов |
-| 📱 Мобильное тестирование | Артефакты тестирования Android |
-| 🖥 Веб-тестирование | UI и функциональное тестирование |
-
-> Портфолио будет дополняться по мере загрузки практики.
+| 🌐 API тестирование | REST API, Postman, Swagger |
+| 🐞 Баг-репорты | Баг-репорты с шагами воспроизведения |
+| 📱 Мобильное тестирование | Android / iOS тестирование |
+| 🖥 Веб-тестирование | UI и функциональные проверки |
 
 ---
 
 ## 📬 Контакты
 
-- 📧 Email: your@email.com  
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
+- 📧 Email: elushv@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/elushv  
 - 🌍 Рассматриваю релокацию  
 
 </details>
@@ -110,94 +152,147 @@
 ---
 
 <details open>
-<summary>🇬🇧 English</summary>
+<summary>English</summary>
 
 ## 👨‍💻 About Me
 
-QA Engineer with **3+ years of experience** in testing mobile and web applications.
+QA Engineer with **3.5+ years of experience**, primarily focused on  
+**mobile devices and telecommunications testing**.
 
-I focus on:
-- product quality
-- clear test design
-- finding critical issues before users do
+Hands-on experience with mobile ecosystems of major vendors
+(**Huawei, Samsung, Vivo**), including user experience testing,
+network services, regional functionality and compatibility with
+local mobile operators in Russia.
 
-I enjoy well-designed products, strong UX, and applications that *feel* right.
+In 2025, intentionally expanded expertise toward
+**web services and API testing**, strengthening both theoretical
+and practical skills through professional training.
 
 ---
 
 ## 🧠 Skills
 
-### 🧪 Testing
-- Functional, Regression, Smoke, Sanity
-- Exploratory testing
-- Test cases, checklists, bug reports
+### Processes & Methodologies
+- SDLC / STLC  
+- Scrum, Kanban  
+- Requirements analysis  
+- Test design  
 
-### 🌐 API
-- REST / JSON / XML
-- HTTP methods & status codes
-- API testing via Postman & cURL
+### Testing
+- Functional & regression testing  
+- Exploratory testing  
+- Mobile application testing  
+- Web service testing  
 
-### 📱 Mobile
-- Android / iOS testing
-- Logs, crashes, network traffic
-- Emulators & real devices
+### API & Databases
+- REST API  
+- Postman, Swagger, cURL, SoapUI  
+- SQL (basic queries)  
+- MySQL, MongoDB, NoSQL  
+- DBeaver  
 
-### 🛠 Tools
-<p>
-  <img src="https://img.shields.io/badge/Postman-orange?logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-blue?logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Charles-grey"/>
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio&logoColor=white"/>
-</p>
+### Tools
+- Jira, YouTrack  
+- Qase.io, TestRail  
+- DevTools  
+- Charles Proxy, Fiddler, Proxyman  
+- Android Studio, Xcode  
+- GitHub, Bash  
+
+### Languages
+- Russian — Native  
+- English — B1 (technical, written)
 
 ---
 
-## 💼 Experience
+## 💼 Work Experience
 
-**QA Engineer — Mobile Applications**  
-*3+ years*
+### **HUAWEI**  
+*Mobile Software Quality Assurance Engineer*  
+**Aug 2024 — May 2025**
 
-- Testing Android & iOS applications  
-- Writing test documentation  
-- Bug tracking and verification  
-- Working closely with developers and analysts  
+- Testing current software versions for smartphones, tablets and wearables  
+- IMS services and network interaction testing with local operators  
+- IoT device testing and user experience research  
+- Software preparation for partner delivery  
+- Collaboration with Huawei HQ on local software issues  
+- Participation in RCS compatibility discussions  
+- Voice assistant training for Russian language support  
+- Yandex Assistant integration testing  
+- CNAP / CNAM feature testing  
+- Photo and video quality analysis  
+- Regular project reporting  
+
+---
+
+### **Samsung R&D Institute Russia**  
+*Mobile Software Quality Assurance Engineer*  
+**Mar 2023 — Aug 2024**
+
+- Regional functionality testing for Russian market  
+- Core device functionality testing  
+- VoLTE, VoWiFi, RCS testing  
+- Marketing issue analysis and reproduction  
+- Network quality and battery consumption testing  
+- GPS testing (static and dynamic)  
+- Wearable devices testing  
+- eSIM testing  
+- Verification of pre-installed applications  
+
+---
+
+### **Vivo Communications Rus**  
+*Mobile Software Quality Assurance Engineer*  
+**Nov 2021 — Oct 2022**
+
+- Smartphone testing based on test cases  
+- Device preparation for certification  
+- LTE, NSA, VoLTE, VoWiFi testing  
+- Performance, UI and geolocation testing  
+- Firmware and modem flashing  
+- OTA update testing  
+- Camera, AR, NFC and audio testing  
+- Bug reporting and log collection via ADB  
+
+---
+
+### **POINT School (Internship)**  
+*Software Tester*  
+**Jul 2021 — Sep 2021**
+
+- Functional, positive and negative testing  
+- Test plans, test cases and checklists creation  
+- Exploratory testing  
+- Requirements testing  
+- Mind maps usage in test design  
+- SQL database queries  
+- Web service testing via SoapUI  
+- Mobile application testing using emulators and device farms  
 
 ---
 
 ## 🚀 Projects
 
-| Project | Description | Tools |
-|-------|------------|-------|
-| 🎬 IVI Test Task | API & UI testing of streaming service | Postman, DevTools |
-| 📱 Mobile App QA | Full testing cycle | Android, Charles |
+QA practice projects and test artefacts created during professional training
+are available in dedicated GitHub repositories.
 
 ---
 
 ## 🧪 Testing Artefacts
 
-Below are examples of my practical QA work completed during professional training.
-
-Each repository contains:
-- task description
-- scope of testing
-- created test artefacts
-- my comments and conclusions
-
 | Module | Description |
 |------|------------|
 | 🔍 Test Design | Test cases, checklists, equivalence classes |
-| 🌐 API Testing | REST API testing tasks (Postman, JSON) |
+| 🌐 API Testing | REST API testing (Postman, Swagger) |
 | 🐞 Bug Reports | Bug reports with clear reproduction steps |
-| 📱 Mobile Testing | Android app testing artefacts |
+| 📱 Mobile Testing | Android / iOS testing artefacts |
 | 🖥 Web Testing | UI & functional testing examples |
-
-> Repositories will be continuously updated as my portfolio grows.
 
 ---
 
 ## 📬 Contact
 
-- 📧 Email: your@email.com  
+- 📧 Email: elushv@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/yourprofile  
 - 🌍 Ready for international opportunities  
 
