@@ -192,12 +192,15 @@ and practical skills through professional training.
 - DBeaver  
 
 ### Tools
-- Jira, YouTrack  
-- Qase.io, TestRail  
-- DevTools  
-- Charles Proxy, Fiddler, Proxyman  
-- Android Studio, Xcode  
-- GitHub, Bash  
+<p>
+  <img src="https://img.shields.io/badge/Jira-blue?logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YouTrack-black?logo=youtrack"/>
+  <img src="https://img.shields.io/badge/Postman-orange?logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Charles-grey"/>
+  <img src="https://img.shields.io/badge/Fiddler-grey"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Xcode-blue?logo=xcode"/>
+</p>
 
 ### Languages
 - Russian — Native  
