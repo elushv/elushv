@@ -256,29 +256,16 @@ and practical skills through professional training.
 
 ---
 
-### **POINT School (Internship)**  
-*Software Tester*  
-**Jul 2021 — Sep 2021**
+## 📦 Portfolio
 
-- Functional, positive and negative testing  
-- Test plans, test cases and checklists creation  
-- Exploratory testing  
-- Requirements testing  
-- Mind maps usage in test design  
-- SQL database queries  
-- Web service testing via SoapUI  
-- Mobile application testing using emulators and device farms  
+This section contains my QA practice, including projects and testing artefacts
+completed during professional training and self-study.
 
----
-
-## 🚀 Projects
-
-QA practice projects and test artefacts created during professional training
-are available in dedicated GitHub repositories.
-
----
-
-## 🧪 Testing Artefacts
+Each repository includes:
+- task description
+- scope of testing
+- created test artefacts
+- notes and conclusions
 
 | Module | Description |
 |------|------------|
@@ -293,7 +280,7 @@ are available in dedicated GitHub repositories.
 ## 📬 Contact
 
 - 📧 Email: elushv@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
+- 💼 LinkedIn: https://linkedin.com/in/elushv  
 - 🌍 Ready for international opportunities  
 
 </details>
