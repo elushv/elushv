@@ -1,4 +1,4 @@
-<h1 align="center">Ilya — QA Engineer</h1>
+<h1 align="center">Ilya Volodin — QA Engineer</h1>
 <h3 align="center">Mobile & Web Testing • API • Test Design</h3>
 
 <p align="center">
